@@ -1,8 +1,10 @@
 class Mobile {
+  // ini properties
   String? warna;
   String? merek;
   String? seri;
 
+  // ini methods
   String call() {
     return 'can calling';
   }
